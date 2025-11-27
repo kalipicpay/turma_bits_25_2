@@ -1,5 +1,0 @@
-# Lista de Alunos
-
-| Nome  | Matrícula     |
-| ----- | ------------- |
-| italo | 2025211510371 |
